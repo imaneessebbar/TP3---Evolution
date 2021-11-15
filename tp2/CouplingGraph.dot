@@ -1,0 +1,3 @@
+digraph G {
+Test -> Product [ label = "0.091 "] Test -> TaxVisitor [ label = "0.045 "] TaxVisitor -> Product [ label = "0.182 "] 
+}
